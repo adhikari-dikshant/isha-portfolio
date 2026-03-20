@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Work | Otis Valen | CG MWT — Codegrid",
+  title: "Work | Isha Raghav | Backend Developer",
 };
 
 export default function WorkLayout({ children }) {

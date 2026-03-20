@@ -8,7 +8,7 @@ export default function ContactCTA() {
       <div className="contact-button">
         <TransitionLink href="/contact" />
         <div className="contact-text-small">
-          <p>Collabs, or cosmic brainstorms welcome</p>
+          <p>Greenfield APIs, refactors, or architecture chats welcome</p>
         </div>
         <div className="contact-text-large">
           <h1>Hit Me Up</h1>

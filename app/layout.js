@@ -4,7 +4,7 @@ import PageTransition from "@/components/PageTransition";
 import Navbar from "@/components/Navbar";
 
 export const metadata = {
-  title: "Otis Valen | CG MWT — Codegrid",
+  title: "Isha Raghav | Backend Developer",
   icons: {
     icon: "/images/global/site-icon.png",
   },

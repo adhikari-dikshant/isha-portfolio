@@ -143,7 +143,7 @@ export default function Footer() {
           <img src="/images/global/s6.png" alt="" />
         </div>
         <div className="footer-header">
-          <h1>Otis Valen</h1>
+          <h1>Isha Raghav</h1>
         </div>
         <div className="footer-row">
           <div className="footer-col">
@@ -195,7 +195,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="copyright-info">
-          <p className="mn">MWT - MAY 2025</p>
+          <p className="mn">Backend portfolio · 2025</p>
           <p className="mn">//</p>
           <p className="mn">
             Built by{" "}

@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "About | Otis Valen | CG MWT — Codegrid",
+  title: "About | Isha Raghav | Backend Developer",
 };
 
 export default function AboutLayout({ children }) {

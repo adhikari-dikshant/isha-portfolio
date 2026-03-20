@@ -91,23 +91,23 @@ export default function AboutPage() {
       <section className="about-hero">
         <div className="about-hero-header">
           <h1>This is</h1>
-          <h1>Otis Valen</h1>
+          <h1>Isha Raghav</h1>
         </div>
         <div className="about-hero-bio">
           <p className="ss">
-            I&apos;m a digital designer who thrives on color chaos, joyful
-            details, and ideas that make you tilt your head and grin. My work
-            blends playful thinking with clean execution — whether it&apos;s a
-            brand, a website, or a weird little concept that shouldn&apos;t work
-            (but totally does). If it moves, clicks, scrolls, or shimmers —
-            I&apos;m into it.
+            I&apos;m a backend developer who cares about clear architecture,
+            dependable APIs, and data that stays consistent when traffic spikes.
+            I like turning messy requirements into services you can ship and
+            monitor — from the first endpoint to production hardening. If it
+            runs on a server, talks to a database, or needs to scale quietly in
+            the background, that&apos;s my lane.
           </p>
-          <p className="mn">Inside my head / slightly filtered</p>
+          <p className="mn">How I build / no fluff</p>
         </div>
         <div className="about-hero-portrait">
           <img
             src="/images/services-header/portrait.jpeg"
-            alt="Otis Valen portrait"
+            alt="Isha Raghav portrait"
           />
         </div>
       </section>
@@ -116,56 +116,55 @@ export default function AboutPage() {
       <section className="about-copy">
         <div className="about-copy-content">
           <h3>
-            I design things that click — literally and emotionally. From{" "}
-            <span>bold</span> brands to <span>pixel-perfect</span> websites, my
-            work lives in the digital space where color, energy, and{" "}
-            <span>clever</span> details come out to play. I&apos;m not here to
-            decorate; I&apos;m here to <span>connect</span>.
+            I build systems that stay <span>predictable</span> under load. From{" "}
+            <span>REST</span> and <span>GraphQL</span> APIs to{" "}
+            <span>PostgreSQL</span> schemas and background jobs, my focus is the
+            layer users don&apos;t see but absolutely depend on. I&apos;m not
+            here for vanity metrics; I&apos;m here for{" "}
+            <span>uptime</span> and <span>data integrity</span>.
           </h3>
           <h3>
-            Every project I take on is a <span>sandbox</span> — where ideas get
-            messy, buttons have <span>feelings</span>, and layouts get{" "}
-            <span>personality</span>. I like clean design with a{" "}
-            <span>wild</span> side, smart systems that don&apos;t take
-            themselves too <span>seriously</span>, and interfaces that move like
-            they mean it.
+            Every engagement is a chance to tighten <span>boundaries</span> —
+            clear service contracts,             <span>observable</span> failures, and code
+            the next developer won&apos;t curse. I like pragmatic patterns,{" "}
+            <span>automated</span> tests where they matter, and deployments
+            that don&apos;t require a ritual.
           </h3>
           <h3>
-            Otis Valen isn&apos;t just a name — it&apos;s a creative habit.
-            I&apos;ve spent the last few years building visual identities,{" "}
-            <span>interactive</span> sites, and <span>playful</span> experiences
-            for clients who love good design but aren&apos;t afraid to have fun
-            with it. If that sounds like you, let&apos;s make{" "}
-            <span>cool</span> stuff.
+            Isha Raghav is how I sign the work — backend ownership from{" "}
+            <span>schema</span> to <span>CI</span>. I&apos;ve shipped APIs,
+            integrations, and platform pieces for teams that need someone who
+            reads logs without flinching. If you need a reliable{" "}
+            <span>foundation</span> for your product, let&apos;s talk.
           </h3>
         </div>
         <div className="tag" id="tag-1">
-          <p>Interactive</p>
+          <p>APIs</p>
         </div>
         <div className="tag" id="tag-2">
-          <p>Joyful</p>
+          <p>Postgres</p>
         </div>
         <div className="tag" id="tag-3">
-          <p>Precise</p>
+          <p>Pragmatic</p>
         </div>
         <div className="tag" id="tag-4">
           <p>Curious</p>
         </div>
         <div className="tag" id="tag-5">
-          <p>Personality</p>
+          <p>Production</p>
         </div>
       </section>
 
       {/* Skills */}
       <section className="skills">
         <div className="skills-copy">
-          <p className="mn">01........................Illustration</p>
-          <p className="mn">02......................VisualIdentity</p>
-          <p className="mn">03..........................Typography</p>
-          <p className="mn">04......................CreativeCoding</p>
-          <p className="mn">05............................Branding</p>
-          <p className="mn">06.........................Filmography</p>
-          <p className="mn">07......................MotionGraphics</p>
+          <p className="mn">01..............................Node.js</p>
+          <p className="mn">02............................TypeScript</p>
+          <p className="mn">03.............................PostgreSQL</p>
+          <p className="mn">04...............................REST</p>
+          <p className="mn">05...............................Docker</p>
+          <p className="mn">06...............................Redis</p>
+          <p className="mn">07...........................AWS / GCP</p>
         </div>
       </section>
 
@@ -174,25 +173,25 @@ export default function AboutPage() {
         <div className="stats-row">
           <div className="stats-col stats-header">
             <h1>I don&apos;t love numbers, but they love me</h1>
-            <p>Some slightly unhinged stats from the Otis-verse</p>
+            <p>Numbers from the server room (rounded for humans)</p>
           </div>
           <div className="stats-col stats-item-1">
             <h1>32</h1>
             <p>
-              Design projects that made me shout &ldquo;this is the one&rdquo;
-              (every time)
+              Backend services and APIs shipped end-to-end — migrations,
+              auth, and the boring stuff that matters
             </p>
           </div>
         </div>
         <div className="stats-row">
           <div className="stats-col stats-item-2">
             <h1>100%</h1>
-            <p>Remote, independent, and allergic to open-plan offices</p>
+            <p>Remote-first, docs-in-repo, reviews that catch edge cases</p>
           </div>
           <div className="stats-col stats-item-3">
             <h1>30+</h1>
             <p>
-              Clients who said &ldquo;wow&rdquo; — or at least made the face
+              Teams who stopped paging at 3am after we fixed the hot path
             </p>
           </div>
         </div>

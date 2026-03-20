@@ -215,11 +215,11 @@ export default function ProjectPage() {
         </div>
         <div className="project-client-feedback-copy">
           <p>
-            &ldquo;Otis didn&apos;t just deliver a design — they delivered a
-            whole experience. Every detail felt intentional, every color felt
-            like it had a story. We came in with a vague idea and left with a
-            brand that felt like it had its own personality. Also, they&apos;re
-            weirdly good at naming buttons.&rdquo;
+            &ldquo;Isha didn&apos;t just ship endpoints — she delivered a
+            platform we could actually run. Migrations were clean, errors were
+            observable, and the API contract stayed stable while we iterated on
+            the product. We came in with performance pain and left with
+            metrics that made sense.&rdquo;
           </p>
         </div>
         <div className="project-client-info">

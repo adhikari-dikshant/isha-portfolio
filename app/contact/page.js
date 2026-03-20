@@ -163,19 +163,19 @@ export default function ContactPage() {
       <section className="contact trail-container" ref={containerRef}>
         <div className="contact-card contact-card-1">
           <div className="contact-card-header-main">
-            <h1>Otis is listening</h1>
+            <h1>Isha is listening</h1>
             <p>
-              Got a wild idea? Need a brand facelift? Or just wanna send a
-              design meme? I&apos;m all ears. Whether it&apos;s a proper brief
-              or just a &ldquo;hey, let&apos;s build something,&rdquo; the inbox
-              is open and slightly buzzing.
+              Need help with APIs, data modeling, or scaling a service? Want a
+              second pair of eyes on architecture? Whether you have a full spec
+              or a rough problem statement, reach out — I reply to real
+              engineering mail.
             </p>
           </div>
-          <p className="mn contact-card-header">Project Proposals</p>
-          <p className="mn">inquiry@otisvalen.com</p>
+          <p className="mn contact-card-header">Project &amp; contracts</p>
+          <p className="mn">work@isharaghav.com</p>
           <br />
-          <p className="mn contact-card-header">Just Vibes</p>
-          <p className="mn">hi@otisvalen.com</p>
+          <p className="mn contact-card-header">General</p>
+          <p className="mn">hello@isharaghav.com</p>
         </div>
         <div className="contact-card contact-card-2">
           <p className="mn contact-card-header">Drop a Line &#8599;</p>

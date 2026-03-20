@@ -11,40 +11,40 @@ gsap.registerPlugin(ScrollTrigger, SplitText);
 
 const workItems = [
   [
-    { name: "Cosmic Deli", type: "Character Design", img: "work-item-1.jpg" },
-    { name: "Skull Pop 7", type: "Color Exploration", img: "work-item-2.jpg" },
+    { name: "Ledger API", type: "Node · PostgreSQL", img: "work-item-1.jpg" },
+    { name: "Auth gateway", type: "OAuth2 · Redis", img: "work-item-2.jpg" },
   ],
   [
-    { name: "Room 404", type: "3D Composition", img: "work-item-3.jpg" },
+    { name: "Room 404", type: "Demo UI shell", img: "work-item-3.jpg" },
     {
-      name: "Red Dot Mission",
-      type: "Narrative Design",
+      name: "Event pipeline",
+      type: "Queues · workers",
       img: "work-item-4.jpg",
     },
   ],
   [
     {
-      name: "Sweetbones",
-      type: "Editorial Illustration",
+      name: "Search service",
+      type: "Indexing · REST",
       img: "work-item-5.jpg",
     },
     {
-      name: "Carnival Bloom 31",
-      type: "Pattern Design",
+      name: "Billing integration",
+      type: "Webhooks · idempotency",
       img: "work-item-6.jpg",
     },
   ],
   [
-    { name: "Soft Noise", type: "Typography Play", img: "work-item-7.jpg" },
+    { name: "Metrics stack", type: "OpenTelemetry", img: "work-item-7.jpg" },
     {
-      name: "Cloud Valley Echo",
-      type: "Creative Direction",
+      name: "Multi-tenant SaaS core",
+      type: "Row-level security",
       img: "work-item-8.jpg",
     },
   ],
   [
-    { name: "Heartbyte", type: "Logo Concept", img: "work-item-9.jpg" },
-    { name: "Orbit Quilt", type: "Digital Collage", img: "work-item-10.jpg" },
+    { name: "Data migration kit", type: "Zero-downtime", img: "work-item-9.jpg" },
+    { name: "Internal admin API", type: "GraphQL", img: "work-item-10.jpg" },
   ],
 ];
 
@@ -153,13 +153,13 @@ export default function WorkPage() {
           <div className="work-profile-icon">
             <img
               src="/images/work-header/work-portrait.jpg"
-              alt="Otis Valen portrait"
+              alt="Isha Raghav portrait"
             />
           </div>
-          <p>Feast your eyes, friend</p>
+          <p>Selected builds — APIs, data, infra</p>
           <div className="work-header-title">
-            <h1>I&apos;m Kinda Proud Of</h1>
-            <h1>Stuff I Made</h1>
+            <h1>Work I&apos;ve Shipped</h1>
+            <h1>On The Backend</h1>
           </div>
           <div className="work-header-arrow-icon">
             <h1>&#8595;</h1>
@@ -170,10 +170,10 @@ export default function WorkPage() {
             <img src="/images/global/symbols.png" alt="" />
           </div>
           <div className="work-footer-scroll-down">
-            <p className="mn">Enter the Archive</p>
+            <p className="mn">Scroll the case studies</p>
           </div>
           <div className="work-footer-tags">
-            <p className="mn">The Goods / 2025</p>
+            <p className="mn">Case files / 2025</p>
           </div>
         </div>
       </section>

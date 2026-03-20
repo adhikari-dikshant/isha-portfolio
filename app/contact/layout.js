@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Contact | Otis Valen | CG MWT — Codegrid",
+  title: "Contact | Isha Raghav | Backend Developer",
 };
 
 export default function ContactLayout({ children }) {

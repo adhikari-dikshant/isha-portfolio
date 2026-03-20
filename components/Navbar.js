@@ -8,7 +8,7 @@ import Link from "next/link";
 const navItems = [
   { href: "/", label: "Index" },
   { href: "/work", label: "The Good Stuff" },
-  { href: "/about", label: "Meet Otis" },
+  { href: "/about", label: "Meet Isha" },
   { href: "/contact", label: "Slide In" },
 ];
 
@@ -146,7 +146,7 @@ export default function Navbar() {
                 href="/"
                 onClick={(e) => handleNavClick(e, "/")}
               >
-                Otis ✦ Valen
+                Isha ✦ Raghav
               </a>
             </p>
           </div>
@@ -194,7 +194,7 @@ export default function Navbar() {
           </div>
           <div className="nav-footer-item">
             <div className="nav-footer-item-copy">
-              <p className="mn">MWT — May 2025 // Codegrid</p>
+              <p className="mn">Backend dev · 2025</p>
             </div>
           </div>
           <div className="nav-footer-item">
@@ -203,8 +203,8 @@ export default function Navbar() {
             </div>
             <div className="nav-footer-item-copy">
               <p className="mn">
-                <a href="mailto:hello@otisvalen.com" target="_blank">
-                  hello@otisvalen.com
+                <a href="mailto:hello@isharaghav.com" target="_blank">
+                  hello@isharaghav.com
                 </a>
               </p>
             </div>
